@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karma T.</h1>
-<h3 align="center">:3</h3>
+<h1>Hi 👋, I'm Karma T.</h1>
+<h3>align="center">:3</h3>
 
 - 📫 How to reach me **ktyangden@gmail.com**
 
