@@ -4,7 +4,7 @@
 If you got smth to say send them here **ktyangden@gmail.com** (i check my mails, sometimes hehe
 
 <h3 align="left">Sharing this pic of Maya and Tara cuz they look adorable here</h3>
-<img align="center" src="WhatsApp Image 2025-04-27 at 00.53.35_3a4bdc9d.jpg alt="Maya_Tara" height="300" width="400" />
+<img align="center" src="https://github.com/ktyangden/ktyangden/blob/807cddc0e036ace9c6da6875f149b059248e9eca/WhatsApp%20Image%202025-04-27%20at%2000.53.35_3a4bdc9d.jpg" height="500" width="400" />
 
 <h3 align="left">I have these too: </h3>
 
