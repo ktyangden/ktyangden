@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Karma T.</h1>
-<h3>:3</h3>
+<h1>Heya, this is Karma T.</h1>
+<h3>I come from the Land of the Thunder Dragon, bearing bugs and errors</h3>
 
 - 📫 How to reach me **ktyangden@gmail.com**
 
