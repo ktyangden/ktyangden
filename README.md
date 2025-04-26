@@ -10,7 +10,6 @@ If you got smth to say send them here **ktyangden@gmail.com** (i check my mails,
 <a href="https://linkedin.com/in/ktyangden" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ktyangden" height="30" width="40" />
 </a>
-</br>
 <a href="https://instagram.com/ktyangden" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ktyangden" height="30" width="40" />
 </a>
